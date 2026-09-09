@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmad Ali (AK)</h1>
+<h3 align="center">WordPress & Elementor Developer | WooCommerce Specialist | Freelancer on Fiverr</h3>
 
-<!--
-**ahmadalidev01/ahmadalidev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Building+fast%2C+scalable+WordPress+sites;WooCommerce+Stores+%7C+Landing+Pages+%7C+Bug+Fixes;3%2B+Years+of+Real+Client+Work;Currently+studying+BSCS+%40+Virtual+University" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.fiverr.com/ahmadalidev01" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+  <a href="https://ahmadalidev01.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧭 About Me
+
+- 🎓 BSCS student at **Virtual University of Pakistan** (graduating 2027)
+- 💼 WordPress/Elementor Developer at **Codaires Software House** — 3+ years building real client sites
+- 🛒 Specialize in **WooCommerce stores**, **landing pages**, **speed optimization**, and **bug fixing**
+- 🌐 Also comfortable outside the CMS world — vanilla **HTML/CSS/JS**, **GSAP animations**, and Canvas-based interactive experiences
+- 🔐 Currently deepening my security fundamentals through a **CEH (Certified Ethical Hacking)** track
+- 📌 Based in Pakistan — working with clients across the US, UK, and Europe
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 What I Do
+
+| Service | Details |
+|---|---|
+| **WordPress Websites** | Custom Elementor builds, theme customization, page speed tuning |
+| **WooCommerce Stores** | Full store setup, payment gateways, product architecture |
+| **Landing Pages** | Conversion-focused, lightweight, mobile-first |
+| **Bug Fixing & Maintenance** | Debugging, plugin conflicts, performance audits |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadalidev01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadalidev01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadalidev01&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.fiverr.com/ahmadalidev01" target="_blank">Fiverr</a> •
+  <a href="https://ahmadalidev01.github.io" target="_blank">Portfolio</a>
+</p>
+
+<p align="center"><i>Open to freelance projects — WordPress, WooCommerce, and custom web experiences.</i></p>
