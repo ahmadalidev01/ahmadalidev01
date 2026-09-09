@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ahmad Ali (AK)</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Ali </h1>
 <h3 align="center">WordPress & Elementor Developer | WooCommerce Specialist | Freelancer on Fiverr</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Building+fast%2C+scalable+WordPress+sites;WooCommerce+Stores+%7C+Landing+Pages+%7C+Bug+Fixes;3%2B+Years+of+Real+Client+Work;Currently+studying+BSCS+%40+Virtual+University" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/status-available%20for%20freelance%20work-2EA3F7?style=flat-square" />
 </p>
 
 ---
@@ -43,19 +43,6 @@
 | **WooCommerce Stores** | Full store setup, payment gateways, product architecture |
 | **Landing Pages** | Conversion-focused, lightweight, mobile-first |
 | **Bug Fixing & Maintenance** | Debugging, plugin conflicts, performance audits |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadalidev01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadalidev01&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahmadalidev01&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
