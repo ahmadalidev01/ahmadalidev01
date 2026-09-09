@@ -1,329 +1,64 @@
-<!-- =========================
-     CINEMATIC GITHUB PROFILE
-     Ahmad Ali
-========================= -->
+<p align="center"><b>Hi 👋, I'm Ahmad Ali </b></p>
+<p align="center"><b>WordPress & Elementor Developer | WooCommerce Specialist | Freelancer on Fiverr</b></p>
 
-<div align="center">
-
-# 👋 Hi, I'm **Ahmad Ali**
-
-### `WordPress Developer` · `Elementor Specialist` · `WooCommerce Developer`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=2EA3F7&center=true&vCenter=true&width=750&lines=Building+high-performance+WordPress+experiences;Crafting+WooCommerce+stores+that+convert;Turning+ideas+into+pixel-perfect+websites;Frontend+%7C+GSAP+%7C+JavaScript+%7C+WordPress;Always+learning.+Always+building." alt="Typing animation" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ahmadalidev01&style=for-the-badge&color=2EA3F7&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Building+fast%2C+scalable+WordPress+sites;WooCommerce+Stores+%7C+Landing+Pages+%7C+Bug+Fixes;3%2B+Years+of+Real+Client+Work;Currently+studying+BSCS+%40+Virtual+University" alt="Typing SVG" />
+</p>
 
 ---
 
-<div align="center">
+**🧭 About Me**
 
-### ⚡ `DESIGN` → `DEVELOP` → `OPTIMIZE` → `DELIVER`
-
-</div>
-
----
-
-## 🧭 About Me
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   👨‍💻  Ahmad Ali                                             │
-│                                                              │
-│   WordPress & Elementor Developer                            │
-│   WooCommerce Specialist                                     │
-│   Freelancer                                                 │
-│   BSCS Student                                               │
-│                                                              │
-│   I build fast, responsive and conversion-focused             │
-│   websites for real-world businesses and clients.            │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-* 🎓 **BSCS Student** — Virtual University of Pakistan
-* 💼 **WordPress / Elementor Developer** at Codaires Software House
-* 🧑‍💻 **3+ years** of real client development experience
-* 🛒 Specialized in **WooCommerce & eCommerce**
-* 🎨 Experienced with **Elementor, custom CSS & responsive UI**
-* ⚡ Focused on **performance, optimization & clean implementation**
-* 🧩 Comfortable with **HTML, CSS, JavaScript & GSAP**
-* 🔐 Currently strengthening my **Cybersecurity / CEH fundamentals**
-* 🌍 Working with clients across the **US, UK & Europe**
+- 🎓 BSCS student at **Virtual University of Pakistan** (graduating 2027)
+- 💼 WordPress/Elementor Developer at **Codaires Software House** — 3+ years building real client sites
+- 🛒 Specialize in **WooCommerce stores**, **landing pages**, **speed optimization**, and **bug fixing**
+- 🌐 Also comfortable outside the CMS world — vanilla **HTML/CSS/JS**, **GSAP animations**, and Canvas-based interactive experiences
+- 🔐 Currently deepening my security fundamentals through a **CEH (Certified Ethical Hacking)** track
+- 📌 Based in Pakistan — working with clients across the US, UK, and Europe
 
 ---
 
-# 🎬 What I Build
+**🛠️ Tech Stack**
 
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 WordPress Development
-
-Custom WordPress websites designed around the client's brand, goals and content.
-
-**→ Elementor builds**
-**→ Theme customization**
-**→ Responsive layouts**
-**→ Custom sections & components**
-
-</td>
-
-<td width="50%">
-
-### 🛒 WooCommerce
-
-Complete eCommerce experiences from product architecture to checkout.
-
-**→ Store setup**
-**→ Product configuration**
-**→ Payment integration**
-**→ Conversion-focused UX**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚡ Performance
-
-I don't just make websites look good — I optimize them to perform.
-
-**→ Speed optimization**
-**→ Asset optimization**
-**→ Mobile performance**
-**→ Technical cleanup**
-
-</td>
-
-<td width="50%">
-
-### 🧩 Bug Fixing
-
-Finding and fixing the problems that stop websites from working properly.
-
-**→ Plugin conflicts**
-**→ CSS issues**
-**→ Elementor bugs**
-**→ Layout problems**
-
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
-# 🧰 Tech Arsenal
+**🚀 What I Do**
 
-<div align="center">
-
-### CMS & eCommerce
-
-<img src="https://skillicons.dev/icons?i=wordpress,php" />
-
-<br><br>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-<br><br>
-
-### Animation & Interaction
-
-<img src="https://skillicons.dev/icons?i=js" />
-
-<br>
-
-`GSAP` · `Canvas` · `CSS Animations` · `Interactive UI`
-
-<br><br>
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-
-</div>
+| Service | Details |
+|---|---|
+| **WordPress Websites** | Custom Elementor builds, theme customization, page speed tuning |
+| **WooCommerce Stores** | Full store setup, payment gateways, product architecture |
+| **Landing Pages** | Conversion-focused, lightweight, mobile-first |
+| **Bug Fixing & Maintenance** | Debugging, plugin conflicts, performance audits |
 
 ---
 
-# 🧪 Beyond WordPress
+**📊 GitHub Activity**
 
-Although WordPress is my primary development environment, I also enjoy building things from scratch.
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ahmadalidev01&theme=tokyonight&hide_border=true" />
+</p>
 
-```javascript
-const ahmad = {
-    primaryStack: [
-        "WordPress",
-        "Elementor",
-        "WooCommerce",
-        "PHP"
-    ],
-
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "GSAP"
-    ],
-
-    interests: [
-        "Web Performance",
-        "UI/UX",
-        "Animations",
-        "Cybersecurity"
-    ],
-
-    mindset: "Build → Break → Learn → Improve"
-};
-```
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ahmadalidev01?style=for-the-badge&color=2EA3F7&label=Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ahmadalidev01&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=2EA3F7" />
+</p>
 
 ---
 
-# 🚀 Development Philosophy
+**📫 Let's Connect**
 
-<div align="center">
-
-> **"A website should not only look good.
-> It should feel good to use."**
-
-</div>
-
-My approach is built around four principles:
-
-```text
-01 ── PERFORMANCE
-     Fast loading, optimized assets and lightweight implementation.
-
-02 ── RESPONSIVENESS
-     Designed to work smoothly across desktop, tablet and mobile.
-
-03 ── EXPERIENCE
-     Clean interfaces, thoughtful interactions and purposeful animation.
-
-04 ── MAINTAINABILITY
-     Organized implementation that can actually be managed later.
-```
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadalidev01&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadalidev01&layout=compact&hide_border=true&theme=tokyonight" height="170" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ahmadalidev01&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ahmadalidev01/ahmadalidev01/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-</div>
-
----
-
-# 🌐 Selected Client Work
-
-### 💎 Live Projects
-
-| Project               | Focus                        |
-| --------------------- | ---------------------------- |
-| **Illumia Aesthetic** | WordPress / Business Website |
-| **SSMS Infotech**     | Corporate Website            |
-| **One40 Tours**       | Travel / Tourism Website     |
-
-> Built for real clients and deployed on production environments.
-
----
-
-# 🎯 Current Focus
-
-```text
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│  ███████████████████████░░░  WordPress             │
-│  ██████████████████████░░░░  Elementor             │
-│  █████████████████████░░░░░  WooCommerce           │
-│  ██████████████████░░░░░░░░  JavaScript            │
-│  █████████████████░░░░░░░░░  GSAP                  │
-│  ███████████████░░░░░░░░░░░  Cybersecurity         │
-│                                                    │
-╰────────────────────────────────────────────────────╯
-```
-
-### Currently learning
-
-`Cybersecurity` · `Ethical Hacking` · `Advanced JavaScript` · `Web Performance`
-
----
-
-# 💼 What I'm Open To
-
-<div align="center">
-
-### 🚀 Freelance Projects
-
-**WordPress Websites**
-**WooCommerce Stores**
-**Elementor Development**
-**Landing Pages**
-**Website Redesigns**
-**Bug Fixes & Optimization**
-**Custom Frontend Experiences**
-
-</div>
-
----
-
-# 📡 Connect
-
-<div align="center">
-
-<a href="https://github.com/ahmadalidev01">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.fiverr.com/">
-<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `Have an idea? Let's build it.`
-
-**WordPress · WooCommerce · Frontend · Web Experiences**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:2EA3F7&height=120&section=footer" width="100%" />
-
-</div>
+<p align="center"><i>Open to freelance projects — WordPress, WooCommerce, and custom web experiences. Portfolio & contact links coming soon.</i></p>
