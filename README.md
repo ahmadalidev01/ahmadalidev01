@@ -5,15 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Building+fast%2C+scalable+WordPress+sites;WooCommerce+Stores+%7C+Landing+Pages+%7C+Bug+Fixes;3%2B+Years+of+Real+Client+Work;Currently+studying+BSCS+%40+Virtual+University" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.fiverr.com/ahmadalidev01" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-  <a href="https://ahmadalidev01.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 🧭 About Me
@@ -63,16 +54,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadalidev01&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ahmadalidev01&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
 
-<p align="left">
-  <a href="https://www.fiverr.com/ahmadalidev01" target="_blank">Fiverr</a> •
-  <a href="https://ahmadalidev01.github.io" target="_blank">Portfolio</a>
-</p>
-
-<p align="center"><i>Open to freelance projects — WordPress, WooCommerce, and custom web experiences.</i></p>
+<p align="center"><i>Open to freelance projects — WordPress, WooCommerce, and custom web experiences. Portfolio & contact links coming soon.</i></p>
