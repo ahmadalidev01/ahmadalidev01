@@ -46,19 +46,6 @@
 
 ---
 
-**📊 GitHub Activity**
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahmadalidev01&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ahmadalidev01?style=for-the-badge&color=2EA3F7&label=Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ahmadalidev01&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=2EA3F7" />
-</p>
-
----
-
 **📫 Let's Connect**
 
 <p align="center"><i>Open to freelance projects — WordPress, WooCommerce, and custom web experiences. Portfolio & contact links coming soon.</i></p>
